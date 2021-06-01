@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Covid Seat Tracker</string>
+    <string name="pincode">PINCODE</string>
+    <string name="date">Date</string>
+    <string name="check">Check</string>
+    <string name="calender">calender</string>
+    <string name="enter_pincode">Here..!</string>
+    <string name="_01_01_2020">01–01–2021</string>
+    <string name="vaccine_for_age_18_to_44">Age 18 to 44</string>
+    <string name="vaccine_for_age_45">Age 45+</string>
+    <string name="age_18_45">Age 18+/45+</string>
+    <string name="dose_1">Dose 1</string>
+    <string name="dose_2">Dose 2</string>
+    <string name="address">Address</string>
+    <string name="is_paid">Price</string>
+    <string name="vaccine_name">Vaccine name</string>
+    <string name="Details">Details</string>
+    <string name="error">No DATA available</string>
+    <string name="book">Book</string>
+
+</resources>
